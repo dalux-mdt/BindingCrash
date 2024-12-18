@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repositories\\BindingCrash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C064C71-30BE-4D8D-9B68-E7249ED18FA1}|BindingCrash.iOS\\BindingCrash.iOS.csproj|d:\\repositories\\bindingcrash\\bindingcrash.ios\\bindingcrash.ios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C064C71-30BE-4D8D-9B68-E7249ED18FA1}|BindingCrash.iOS\\BindingCrash.iOS.csproj|solutionrelative:bindingcrash.ios\\bindingcrash.ios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|d:\\repositories\\bindingcrash\\bindingcrash\\extendedgrid.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|solutionrelative:bindingcrash\\extendedgrid.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C064C71-30BE-4D8D-9B68-E7249ED18FA1}|BindingCrash.iOS\\BindingCrash.iOS.csproj|d:\\repositories\\bindingcrash\\bindingcrash.ios\\info.plist||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7C064C71-30BE-4D8D-9B68-E7249ED18FA1}|BindingCrash.iOS\\BindingCrash.iOS.csproj|solutionrelative:bindingcrash.ios\\info.plist||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|d:\\repositories\\bindingcrash\\bindingcrash\\crashingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|solutionrelative:bindingcrash\\crashingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|d:\\repositories\\bindingcrash\\bindingcrash\\crashingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|solutionrelative:bindingcrash\\crashingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|d:\\repositories\\bindingcrash\\bindingcrash\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|solutionrelative:bindingcrash\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|d:\\repositories\\bindingcrash\\bindingcrash\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|solutionrelative:bindingcrash\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|d:\\repositories\\bindingcrash\\bindingcrash\\bindableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|solutionrelative:bindingcrash\\bindableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|d:\\repositories\\bindingcrash\\bindingcrash\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|solutionrelative:bindingcrash\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|d:\\repositories\\bindingcrash\\bindingcrash\\extendedgrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|solutionrelative:bindingcrash\\extendedgrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|d:\\repositories\\bindingcrash\\bindingcrash\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|solutionrelative:bindingcrash\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|d:\\repositories\\bindingcrash\\bindingcrash\\mauiprogramextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|BindingCrash\\BindingCrash.csproj|solutionrelative:bindingcrash\\mauiprogramextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Info.plist",
+              "DocumentMoniker": "D:\\Repositories\\BindingCrash\\BindingCrash.iOS\\Info.plist",
+              "RelativeDocumentMoniker": "BindingCrash.iOS\\Info.plist",
+              "ToolTip": "D:\\Repositories\\BindingCrash\\BindingCrash.iOS\\Info.plist",
+              "RelativeToolTip": "BindingCrash.iOS\\Info.plist",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-18T10:23:46.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Repositories\\BindingCrash\\BindingCrash\\MainPage.xaml",
+              "RelativeDocumentMoniker": "BindingCrash\\MainPage.xaml",
+              "ToolTip": "D:\\Repositories\\BindingCrash\\BindingCrash\\MainPage.xaml",
+              "RelativeToolTip": "BindingCrash\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T10:04:28.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BindingCrash.iOS.csproj",
+              "DocumentMoniker": "D:\\Repositories\\BindingCrash\\BindingCrash.iOS\\BindingCrash.iOS.csproj",
+              "RelativeDocumentMoniker": "BindingCrash.iOS\\BindingCrash.iOS.csproj",
+              "ToolTip": "D:\\Repositories\\BindingCrash\\BindingCrash.iOS\\BindingCrash.iOS.csproj",
+              "RelativeToolTip": "BindingCrash.iOS\\BindingCrash.iOS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T09:08:39.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Repositories\\BindingCrash\\BindingCrash\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "BindingCrash\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Repositories\\BindingCrash\\BindingCrash\\MainPage.xaml.cs",
+              "RelativeToolTip": "BindingCrash\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:06:22.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\Repositories\\BindingCrash\\BindingCrash\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "BindingCrash\\AppShell.xaml.cs",
+              "ToolTip": "D:\\Repositories\\BindingCrash\\BindingCrash\\AppShell.xaml.cs",
+              "RelativeToolTip": "BindingCrash\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:06:06.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BindableViewModel.cs",
+              "DocumentMoniker": "D:\\Repositories\\BindingCrash\\BindingCrash\\BindableViewModel.cs",
+              "RelativeDocumentMoniker": "BindingCrash\\BindableViewModel.cs",
+              "ToolTip": "D:\\Repositories\\BindingCrash\\BindingCrash\\BindableViewModel.cs",
+              "RelativeToolTip": "BindingCrash\\BindableViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:05:55.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtendedGrid.xaml.cs",
+              "DocumentMoniker": "D:\\Repositories\\BindingCrash\\BindingCrash\\ExtendedGrid.xaml.cs",
+              "RelativeDocumentMoniker": "BindingCrash\\ExtendedGrid.xaml.cs",
+              "ToolTip": "D:\\Repositories\\BindingCrash\\BindingCrash\\ExtendedGrid.xaml.cs",
+              "RelativeToolTip": "BindingCrash\\ExtendedGrid.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:05:49.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExtendedGrid.xaml",
+              "DocumentMoniker": "D:\\Repositories\\BindingCrash\\BindingCrash\\ExtendedGrid.xaml",
+              "RelativeDocumentMoniker": "BindingCrash\\ExtendedGrid.xaml",
+              "ToolTip": "D:\\Repositories\\BindingCrash\\BindingCrash\\ExtendedGrid.xaml",
+              "RelativeToolTip": "BindingCrash\\ExtendedGrid.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T09:05:44.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrashingPage.xaml",
+              "DocumentMoniker": "D:\\Repositories\\BindingCrash\\BindingCrash\\CrashingPage.xaml",
+              "RelativeDocumentMoniker": "BindingCrash\\CrashingPage.xaml",
+              "ToolTip": "D:\\Repositories\\BindingCrash\\BindingCrash\\CrashingPage.xaml",
+              "RelativeToolTip": "BindingCrash\\CrashingPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T09:05:40.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrashingPage.xaml.cs",
+              "DocumentMoniker": "D:\\Repositories\\BindingCrash\\BindingCrash\\CrashingPage.xaml.cs",
+              "RelativeDocumentMoniker": "BindingCrash\\CrashingPage.xaml.cs",
+              "ToolTip": "D:\\Repositories\\BindingCrash\\BindingCrash\\CrashingPage.xaml.cs",
+              "RelativeToolTip": "BindingCrash\\CrashingPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:05:27.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Repositories\\BindingCrash\\BindingCrash\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BindingCrash\\App.xaml.cs",
+              "ToolTip": "D:\\Repositories\\BindingCrash\\BindingCrash\\App.xaml.cs",
+              "RelativeToolTip": "BindingCrash\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:05:05.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MauiProgramExtensions.cs",
+              "DocumentMoniker": "D:\\Repositories\\BindingCrash\\BindingCrash\\MauiProgramExtensions.cs",
+              "RelativeDocumentMoniker": "BindingCrash\\MauiProgramExtensions.cs",
+              "ToolTip": "D:\\Repositories\\BindingCrash\\BindingCrash\\MauiProgramExtensions.cs",
+              "RelativeToolTip": "BindingCrash\\MauiProgramExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:02:13.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

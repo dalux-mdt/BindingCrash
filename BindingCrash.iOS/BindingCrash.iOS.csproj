@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0-ios</TargetFramework>
+		<SupportedOSPlatformVersion>11.0</SupportedOSPlatformVersion>
+		<OutputType>Exe</OutputType>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UseMaui>true</UseMaui>
+		<MauiVersion>8.0.100</MauiVersion>
+		<ProvisioningType>manual</ProvisioningType>
+
+		<DebugType>none</DebugType>
+		<Optimize>True</Optimize>
+		<ErrorReport>prompt</ErrorReport>
+		<WarningLevel>4</WarningLevel>
+		<ConsolePause>False</ConsolePause>
+		<RuntimeIdentifier>ios-arm64</RuntimeIdentifier>
+		<MtouchLink>SdkOnly</MtouchLink>
+		<MtouchDebug>False</MtouchDebug>
+		<MtouchProfiling>False</MtouchProfiling>
+		<MtouchFastDev>False</MtouchFastDev>
+		<MtouchUseLlvm>False</MtouchUseLlvm>
+		<MtouchUseThumb>False</MtouchUseThumb>
+		<MtouchEnableBitcode>False</MtouchEnableBitcode>
+		<MtouchUseSGen>False</MtouchUseSGen>
+		<MtouchUseRefCounting>False</MtouchUseRefCounting>
+		<OptimizePNGs>True</OptimizePNGs>
+		<MtouchTlsProvider>Default</MtouchTlsProvider>
+		<UseNativeHttpHandler>True</UseNativeHttpHandler>
+		<MtouchFloat32>False</MtouchFloat32>
+		<MtouchI18n>west</MtouchI18n>
+		<MtouchNoSymbolStrip>False</MtouchNoSymbolStrip>
+		<MtouchExtraArgs>--force-thread-check --optimize=force-rejected-types-removal --warn-on-type-ref=UIKit.UIWebView -warnaserror:1503</MtouchExtraArgs>
+		<MtouchInterpreter>-all</MtouchInterpreter>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
+		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
+		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\BindingCrash\BindingCrash.csproj" />
+	</ItemGroup>
+
+</Project>
